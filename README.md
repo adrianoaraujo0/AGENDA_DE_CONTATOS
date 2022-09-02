@@ -1,16 +1,13 @@
-# agenda_de_contatos
+# Agenda de contatos
 
-A new Flutter project.
+## TELAS 
+<img src ="https://cdn.discordapp.com/attachments/952993725431316500/1015214843642523649/Screenshot_20220902-075634.png" width="200px">
+<img src ="https://cdn.discordapp.com/attachments/952993725431316500/1015214843894169620/Screenshot_20220902-075641.png" width="200px">
+<img src ="https://cdn.discordapp.com/attachments/952993725431316500/1015214844145836122/Screenshot_20220902-075656.png" width="200px">
+<img src ="https://cdn.discordapp.com/attachments/952993725431316500/1015214844426858516/Screenshot_20220902-075706.png" width="200px">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Sobre o código
+Foi utilizado nesse código: image_picker:, url_launcher,  sqflite.
